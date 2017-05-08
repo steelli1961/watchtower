@@ -1,4 +1,4 @@
-package main // import "github.com/v2tec/watchtower"
+apackage main // import "github.com/v2tec/watchtower"
 
 import (
 	"fmt"
